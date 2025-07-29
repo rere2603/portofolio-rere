@@ -1,0 +1,27 @@
+body{
+    background-color: bisque;
+}
+h3{
+    color: lightcoral;
+    text-align: center;
+}
+h1{
+    color: lightcoral;
+    text-align: center;
+}
+img{
+    width: 200px;
+    height: 200px;
+}
+li{
+    color: lightcoral;
+    text-align: center;
+}
+p{
+    color: lightcoral;
+    text-align: center;
+}
+a{
+    color: purple;
+}
+
